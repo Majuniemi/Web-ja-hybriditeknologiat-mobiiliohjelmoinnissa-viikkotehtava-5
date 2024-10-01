@@ -12,3 +12,4 @@ provide title or other information, or save markers (e.g. AsyncStorage).
 
 ## Implemented UI
 
+<img src="implemented_ui.jpeg" alt="UI layout" width="300"/>
